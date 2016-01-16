@@ -1,0 +1,7 @@
+kasia_epopee:
+    resource: "@KasiaEpopeeBundle/Resources/config/routing.yml"
+    prefix:   /pt
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
